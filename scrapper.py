@@ -9,7 +9,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # https://console.cloud.google.com/apis/api/sheets.googleapis.com/credentials
-gsheet_policy_json = '/Users/DTVD/Private/OrakaroDev/keibai/keibai-432201-d567755562ba.json'
+gsheet_policy_json = '/Users/orakaro.targaryen/Private/OrakaroDev/keibai/keibai-432201-d567755562ba.json'
 result_sheet_name = 'Keibai Search Result'
 # Keibai Search Result: https://docs.google.com/spreadsheets/d/14S-mSE72HbEBH5BBUdsAgclJ3CUBA3Vq2bTiY23tWTc/edit?gid=0#gid=0
 
